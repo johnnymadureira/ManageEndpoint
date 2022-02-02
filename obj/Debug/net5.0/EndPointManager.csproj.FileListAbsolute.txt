@@ -1,0 +1,16 @@
+C:\Users\johnn\source\repos\EndPointManager\bin\Debug\net5.0\EndPointManager.exe
+C:\Users\johnn\source\repos\EndPointManager\bin\Debug\net5.0\EndPointManager.deps.json
+C:\Users\johnn\source\repos\EndPointManager\bin\Debug\net5.0\EndPointManager.runtimeconfig.json
+C:\Users\johnn\source\repos\EndPointManager\bin\Debug\net5.0\EndPointManager.runtimeconfig.dev.json
+C:\Users\johnn\source\repos\EndPointManager\bin\Debug\net5.0\EndPointManager.dll
+C:\Users\johnn\source\repos\EndPointManager\bin\Debug\net5.0\ref\EndPointManager.dll
+C:\Users\johnn\source\repos\EndPointManager\bin\Debug\net5.0\EndPointManager.pdb
+C:\Users\johnn\source\repos\EndPointManager\obj\Debug\net5.0\EndPointManager.csproj.AssemblyReference.cache
+C:\Users\johnn\source\repos\EndPointManager\obj\Debug\net5.0\EndPointManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnn\source\repos\EndPointManager\obj\Debug\net5.0\EndPointManager.AssemblyInfoInputs.cache
+C:\Users\johnn\source\repos\EndPointManager\obj\Debug\net5.0\EndPointManager.AssemblyInfo.cs
+C:\Users\johnn\source\repos\EndPointManager\obj\Debug\net5.0\EndPointManager.csproj.CoreCompileInputs.cache
+C:\Users\johnn\source\repos\EndPointManager\obj\Debug\net5.0\EndPointManager.dll
+C:\Users\johnn\source\repos\EndPointManager\obj\Debug\net5.0\ref\EndPointManager.dll
+C:\Users\johnn\source\repos\EndPointManager\obj\Debug\net5.0\EndPointManager.pdb
+C:\Users\johnn\source\repos\EndPointManager\obj\Debug\net5.0\EndPointManager.genruntimeconfig.cache
